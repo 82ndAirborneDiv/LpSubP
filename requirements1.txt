@@ -9,7 +9,7 @@ DendroPy==4.4.0
 fastcluster==1.1.25
 future==0.17.1
 gitdb2==2.0.4
-GitPython==2.1.11
+GitPython==3.1.27
 humanfriendly==4.17
 kiwisolver==1.0.1
 llvmlite==0.24.0
@@ -38,3 +38,4 @@ staramr==0.2.2
 statsmodels==0.9.0
 XlsxWriter==1.0.6
 
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
