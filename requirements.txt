@@ -25,7 +25,7 @@ patsy==0.5.0
 peddy==0.4.2
 pefile==2019.4.14
 poppunk==1.1.0
-PyInstaller==3.4
+PyInstaller==5.8.0
 pyparsing==2.2.0
 python-dateutil==2.7.3
 pytz==2018.5
